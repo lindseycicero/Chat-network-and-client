@@ -1,10 +1,4 @@
-# Project 3 : GWack Slack Simulator
-
-## Help Received
-
-Please document any help you received in completing this lab. Note that the what you submit should be your own work. Refer to the syllabus for more details. 
-
-I went to ownes office hours and he helped me solve a problem I was having with sending messages through the GUI because of threading.
+Slack Simulator
 
 ## Describe the OOP design of your GWack Slack Simulator
 
